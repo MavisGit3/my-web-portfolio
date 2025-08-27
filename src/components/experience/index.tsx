@@ -121,7 +121,7 @@ export default function Experience() {
                 marketplaces and DeFi staking platforms.
               </p>
               <div className="flex flex-wrap gap-2">
-                <Badge className="bg-blue-900 hover:bg-blue-800">Soildty</Badge>
+                <Badge className="bg-blue-900 hover:bg-blue-800">Soildity</Badge>
                 <Badge className="bg-blue-700 hover:bg-blue-600">Hardhat</Badge>
                 <Badge className="bg-teal-900 hover:bg-teal-800">
                   Ether.js

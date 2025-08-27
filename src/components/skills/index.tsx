@@ -51,7 +51,7 @@ export default function Skills() {
         <div className="grid grid-cols md:grid-cols-2 gap-6 md:gap-10 px-4 py-4 md:px-0">
           {[
             {
-              title: "Solidty",
+              title: "Solidity",
               description: "Smart contract, ERC standards, gas optimization",
             },
             {
