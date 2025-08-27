@@ -8,8 +8,8 @@ export default function Hero() {
       </div>
       <div className="flex justify-center">
         <div className="text-4xl  max-w-7xl mx-auto  lg:text-5xl md:text-4xl font-serif mt-5">
-          <span className="">Creating a </span>
-          <span className="text-orange-400">digital</span>{" "}
+          <span className="ml-4">Creating a </span>
+          <span className="text-orange-400">digital</span>
           <span className="text-orange-300"> tomorrow</span>
         </div>
       </div>
