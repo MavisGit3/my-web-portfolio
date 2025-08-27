@@ -10,7 +10,7 @@ export default function Hero() {
         <div className="text-4xl  max-w-7xl mx-auto  lg:text-5xl md:text-4xl font-serif mt-5">
           <span className="ml-5">Creating a </span>
           <span className="text-orange-400">digital</span>
-          <span className="text-orange-300 sm:flex"> tomorrow</span>
+          <span className="text-orange-300 ml-5"> tomorrow</span>
         </div>
       </div>
       <div className="flex justify-center">
